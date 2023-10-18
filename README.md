@@ -9,6 +9,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1pdF6jkvPsddH9or7DbMI5s7MiKTpg8vb/view?usp=sharing](https://drive.google.com/file/d/1pdF6jkvPsddH9or7DbMI5s7MiKTpg8vb/view?usp=sharing)
 
+- ⚡ Here is my alternate github repo with open source contributions **https://github.com/Trusted-AI/AIF360/pulls?q=+is%3Apr+author%3Ajainsunishka+**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jsunishka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jsunishka" height="30" width="40" /></a>
